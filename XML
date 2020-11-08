@@ -1,0 +1,153 @@
+<listMamalia>
+    <ListMM>1</ListMM>
+    <nama>Singa</nama>
+    <jenis>Mamalia</jenis>
+
+    <ListMM>2</ListMM>
+    <nama>Harimau</nama>
+    <jenis>Mamalia</jenis>
+
+    <ListMM>3</ListMM>
+    <nama>Rusa</nama>
+    <jenis>Mamalia</jenis>
+</listMamalia>
+
+<listAves>
+    <ListAA>1</ListAA>
+    <nama>Merak</nama>
+    <jenis>Aves</jenis>
+
+    <ListAA>2</ListAA>
+    <nama>Pinguin</nama>
+    <jenis>Aves</jenis>
+</listUnggas>
+
+<listInsect>
+    <ListII>1</ListII>
+    <nama>Kupu-kupu</nama>
+    <jenis>Insect</jenis>
+
+    <ListII>2</ListII>
+    <nama>Kumbang</nama>
+    <jenis>Insect</jenis>
+
+    <ListII>3</ListII>
+    <nama>Lebah Madu</nama>
+    <jenis>Insect</jenis>
+</listSerangga>
+
+<listPisces>
+    <ListPP>1</ListPP>
+    <nama>Pari</nama>
+    <jenis>pisces</jenis>
+
+    <ListPP>2</ListPP>
+    <nama>Piranha</nama>
+    <jenis>pisces</jenis>
+
+    <ListPP>3/ListPP>
+    <nama>Gurame</nama>
+    <jenis>Pisces</jenis>
+
+    <ListPP>4</ListPP>
+    <nama>Hiu</nama>
+    <jenis>pisces</jenis>
+</listPisces>
+
+<Keterangan>
+    <kategori>
+        <ListMM>1</ListMM>
+        <Spesies>Panthera Leo</Spesies>
+        <Genus>Panthera</Genus>
+        <Ordo>Carnivora</Ordo>
+        <Kelas>Mammalia</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListMM>2</ListMM>
+        <Spesies>Panthera Tigris</Spesies>
+        <Genus>Panthera</Genus>
+        <Ordo>Carnivora</Ordo>
+        <Kelas>Mammalia</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListMM>3</ListMM>
+        <Spesies>Cervidae</Spesies>
+        <Genus>Cervus</Genus>
+        <Ordo>Artiodactyla</Ordo>
+        <Kelas>Mammalia</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListAA>1</ListAA>
+        <Spesies>Pavo Cristatus</Spesies>
+        <Genus>Pavo</Genus>
+        <Ordo>Galliformes</Ordo>
+        <Kelas>Aves</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListAA>2</ListAA>
+        <Spesies>Aptenodytes forsteri</Spesies>
+        <Genus>Aptenodytes</Genus>
+        <Ordo>Sphenisciformes</Ordo>
+        <Kelas>Aves</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListII>1</ListII>
+        <Spesies>Danaus plexippus</Spesies>
+        <Genus>Danaus</Genus>
+        <Ordo>Lepidoptera</Ordo>
+        <Kelas>Insecta</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListII>2</ListII>
+        <Spesies>Acrocinus</Spesies>
+        <Genus>Sciades</Genus>
+        <Ordo>Coleoptera</Ordo>
+        <Kelas>Insecta</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListII>3</ListII>
+        <Spesies>Apis andreniformis</Spesies>
+        <Genus>Apis</Genus>
+        <Ordo>Hymenoptera</Ordo>
+        <Kelas>Insecta</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListPP>1</ListPP>
+        <Spesies>Manta birostris</Spesies>
+        <Genus>Manta</Genus>
+        <Ordo>Rajiformes</Ordo>
+        <Kelas>Chondrichthyes</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListPP>2</ListPP>
+        <Spesies>Pygocentrus nattereri</Spesies>
+        <Genus>Pygopristis</Genus>
+        <Ordo>Characiformes</Ordo>
+        <Kelas>Actinopterygii</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListPP>3</ListPP>
+        <Spesies>Sphronemus goramy</Spesies>
+        <Genus>Osphronemus</Genus>
+        <Ordo>Anabantiformes</Ordo>
+        <Kelas>Actinopteri</Kelas>
+    </kategori>
+
+    <kategori>
+        <ListPP>4</ListPP>
+        <Spesies>Carcharodon carcharias</Spesies>
+        <Genus>Carcharodon</Genus>
+        <Ordo>Lamniformes</Ordo>
+        <Kelas>Chondrichthyes</Kelas>
+    </kategori>
+</keterangan>
