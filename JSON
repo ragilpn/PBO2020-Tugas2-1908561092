@@ -1,0 +1,141 @@
+{
+    "listMamalia" :
+    {
+        "listMM"    : 1,
+        "Nama"      : "Singa",
+        "Jenis"     : "mamalia",
+
+        "listMM"    : 2,
+        "Nama"      : "Harimau",
+        "Jenis"     : "mamalia",
+    
+        "listMM"    : 3,
+        "Nama"      : "Rusa",
+        "Jenis"     : "mamalia",
+    },
+
+    "listAves" :
+    {
+        "listAA"    : 1,
+        "Nama"      : "Merak",
+        "Jenis"     : "Aves",
+
+        "listAA"    : 2,
+        "Nama"      : "Pinguin",
+        "Jenis"     : "Aves",
+    },
+
+    "listInsect" :
+    {
+        "listII"    : 1,
+        "Nama"      : "Kupu-kupu",
+        "Jenis"     : "Insect",
+
+        "listII"    : 2,
+        "Nama"      : "Kumbang",
+        "Jenis"     : "insect",
+
+        "listII"    : 3,
+        "Nama"      : "Lebah",
+        "Jenis"     : "Insect",
+    },
+
+    "listPisces" :
+    {
+        "listPP"    : 1,
+        "Nama"      : "Pari",
+        "Jenis"     : "Pisces",
+
+        "listPP"    : 2,
+        "Nama"      : "Piranha",
+        "Jenis"     : "pisces",
+
+        "listPP"    : 3,
+        "Nama"      : "Gurame",
+        "Jenis"     : "Pisces",
+        
+        "listPP"    : 4,
+        "Nama"      : "Gurame",
+        "Jenis"     : "Pisces",  
+
+    },
+
+    "Keterangan" :
+    [
+        {
+            "Nama"	    : "Singa", 
+            "Spesies"	: "Panthera Leo",
+            "Genus"	    : "Panthera",
+            "Ordo"	    : "Carnivora",
+            "Kelas"	    : "Mammalia",
+
+            "Nama"	    : "Harimau",
+            "Spesies"	: "Panthera Tigris",
+            "Genus"	    : "Panthera",
+            "Ordo"	    : "Carnivora",
+            "Kelas"	    : "Mammalia",
+
+            "Nama"  	: "Rusa",
+            "Spesies"	: "Cervidae",
+            "Genus"	    : "Cervus",
+            "Ordo"	    : "Artiodactyla",
+            "Kelas"	    : "Mammalia",
+
+
+            "Nama"	    : "Merak",
+            "Spesies"	: "Pavo cristatus",
+            "Genus"	    : "Pavo",
+            "Ordo"	    : "GAlliformes",
+            "Kelas"	    : "Aves",
+
+            "Nama"	    : "Pinguin",
+            "Spesies"	: "Aptenodytes forteri",
+            "Genus"	    : "Aptenodytes",
+            "Ordo"	    : "Sphenisciformes",
+            "Kelas"	    : "Aves",
+
+            "Nama"	    : "Kupu-kupu",
+            "Spesies"	: "danaus plexippus",
+            "Genus"	    : "Danaus",
+            "Ordo"	    : "Lepodoptera",
+            "Kelas"	    : "insecta",
+
+
+            "Nama"  	: "Kumbang",
+            "Spesies"	: "Acrocinus",
+            "Genus"    : "Sciades",
+            "Ordo"	    : "Coleoptera",
+            "Kelas"	    : "Insecta",
+
+            "Nama"	    : "Lebah",
+            "Spesies"	: "Apis andreniformis",
+            "Genus"	    : "Apis",
+            "Ordo"	    : "Hymenoptera",
+            "Kelas"	    : "insecta",
+
+            "Nama"  	: "Pari",
+            "Spesies"	: "Manta birostris",
+            "Genus"	    : "Manta",
+            "Ordo"	    : "Rajiformes",
+            "Kelas"	    : "Chondrichtthyes",
+
+            "Nama"	    : "Piranha",
+            "Spesies"	: "Pygocentrus nattereri",
+            "Genus"	    : "Pygopristis",
+            "Ordo"	    : "Characiformes",
+            "Kelas"	    : "Actinopterygii",
+
+            "Nama"	    : "Gurame",
+            "Spesies"	: "Sphronemus goramy",
+            "Genus"	    : "Osphronemus",
+            "Ordo"	    : "Anabantiformes",
+            "Kelas"	    : "Actinopter",
+
+            "Nama"	    : "Hiu",
+            "Spesies"	: "Carcharodon carcharias",
+            "Genus"	    : "Carcharodon",
+            "Ordo"	    : "Lamniformes",
+            "Kelas"	    : "Chondrichthyes",
+        }
+    ]
+}
